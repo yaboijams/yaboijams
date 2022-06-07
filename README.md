@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jamari Mitchell! </h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
 
 - <b>R/Rstudio</b>
   - [Coordinate System Organization for Biomechanical Analysis](https://github.com/yaboijams/Coordinate-System-Organization-for-Biomechanical-Analysis/blob/main/README.md)
