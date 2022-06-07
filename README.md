@@ -4,6 +4,7 @@
 
 - <b>R/Rstudio</b>
   - [Coordinate System Organization for Biomechanical Analysis](https://github.com/yaboijams/Coordinate-System-Organization-for-Biomechanical-Analysis/blob/main/README.md)
+  - [Measuring Species Variation with Principal Component Analysis](https://github.com/yaboijams/Measuring-Variation-with-Principal-Component-Analysis)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -29,7 +30,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JamariMitchell" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JamariMitchell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
