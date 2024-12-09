@@ -1,65 +1,74 @@
-<h1 align="center">👋 Hi, I'm Jamari Mitchell!</h1>
-<p align="center"><b>Full Stack Developer | Research Enthusiast | Problem Solver</b></p>
+<h1 align="center">✨ Hi, I'm Jamari Mitchell! ✨</h1>
+<p align="center"><b>Full Stack Developer | Research Wizard | Code Connoisseur</b></p>
 
 ---
 
-<h2>🚀 About Me</h2>
-<p>
-I am a versatile Full Stack Developer skilled in building scalable, user-centric applications. My expertise spans frontend frameworks like React.js, Angular, and Tailwind CSS, alongside backend technologies such as Node.js, .NET, and Firebase. With a solid foundation in computer science and biology, I excel at integrating RESTful APIs, optimizing workflows, and solving complex challenges with innovative solutions. 
+<h2 align="center">🎨 About Me</h2>
+<p align="center">
+I’m not just a Full Stack Developer—I’m a digital alchemist, transforming complex problems into sleek, user-friendly solutions. Whether it's optimizing workflows, crafting scalable applications, or diving into biomechanical research, I thrive at the intersection of innovation and functionality. 
+</p>
+<p align="center">
+<strong>When I’m not coding, you can find me exploring new tech trends, tinkering with game development, or chasing the next big idea!</strong>
 </p>
 
 ---
 
-<h2>👨‍💻 Technical Skills</h2>
-
-- **Programming Languages**: JavaScript, Python, R, TypeScript, Kotlin, SQL, C#, C++, Java, HTML/CSS
-- **Frameworks & Libraries**: React.js, Angular, Vue.js, Django, Flask, Spring Boot, Express.js, Node.js
-- **Tools & Platforms**: Firebase, Google Cloud Platform, Material UI, Bootstrap, Tailwind CSS
-
----
-
-<h2>🛠️ Experience</h2>
-
-### Full Stack Developer | Simpson Limited | July 2023 – Present
-- Developed a React.js application integrated with Authorize.net, Auth0, and Redis, boosting monthly revenue by 3% and saving $1,200/month in third-party costs.
-- Built a Material UI-based dashboard to manage inventory and content, reducing data lookup time by 40%.
-- Designed an Android app in Kotlin for inventory management, eliminating $1,000/device scanning costs.
-
-### Research Software Engineer | Knox College | June 2020 – July 2023
-- Created R scripts for analyzing biomechanical data, accelerating lab findings by 28%.
-- Automated variance visualization in principal component analysis, streamlining research workflows.
-- Contributed to published research featured in a Scientific Journal.
+<h2>🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</p>
 
 ---
 
-<h2>📂 Featured Projects</h2>
+<h2>🚀 Experience</h2>
 
-- **[Game of Life](https://gameoflife-eosin.vercel.app/)** | Angular, TypeScript, C#, .NET, Firebase  
-  Multiplayer board game with real-time state management and neon-themed UI.
+### Full Stack Developer | Simpson Limited | July 2023 – Present  
+- 🚀 **Boosted revenue**: Developed a React.js app integrated with Authorize.net, Auth0, and Redis, increasing monthly revenue by 3% and saving $1,200/month.  
+- 📦 **Streamlined workflows**: Migrated inventory databases to Firebase, slashing lookup times by 40%.  
+- 📱 **App Innovator**: Designed a Kotlin-based Android app for inventory management, saving $1,000/device.  
 
-- **[The Interview](https://theinterview.info/)** | React.js, Node.js, Firebase  
-  CRUD application showcasing real-time insights into career journeys.
-
-- **[Web Portfolio](https://web-portfolio-delta-black.vercel.app/)** | Next.js, React.js, Tailwind CSS  
-  Personal portfolio featuring responsive design and server-side rendering.
-
-- **[Python Chatbot](https://github.com/yaboijams/Chat-Bot)** | Python, Keras, NLTK  
-  AI chatbot with 85% message intent classification accuracy.
-
-- **[Phobia 3D](https://github.com/yaboijams)** | Unity, C++  
-  Immersive horror game with interactive mechanics and optimized performance.
+### Research Software Engineer | Knox College | June 2020 – July 2023  
+- 🔬 **Accelerated research**: Created R scripts for biomechanical data, speeding up lab findings by 28%.  
+- 📊 **Automated analysis**: Streamlined PCA workflows with scree plot generation and variance visualization.  
+- 🧠 **Published results**: Contributed to groundbreaking research featured in a scientific journal.  
 
 ---
 
-<h2>📖 Education</h2>
+<h2>🎮 Projects</h2>
+
+- **[Game of Life](https://gameoflife-eosin.vercel.app/)**  
+  🧩 Multiplayer board game with real-time state management, neon-themed UI, and Firebase integration.  
+
+- **[The Interview](https://theinterview.info/)**  
+  💼 CRUD application featuring career insights, RESTful APIs, and responsive design using React.js and Firebase.  
+
+- **[Web Portfolio](https://web-portfolio-delta-black.vercel.app/)**  
+  🎨 Responsive showcase of my technical skills and projects, built with Next.js and Tailwind CSS.  
+
+- **[Python Chatbot](https://github.com/yaboijams/Chat-Bot)**  
+  🤖 AI chatbot with 85% accuracy, powered by LSTM neural networks and NLTK.  
+
+- **[Phobia 3D](https://github.com/yaboijams)**  
+  🎥 Immersive horror game exploring fears, developed in Unity with performance-optimized C++.  
+
+---
+
+<h2>📚 Education</h2>
+
 - **Bachelor of Science in Computer Science & Biology**  
   Knox College, 2023  
 
 ---
 
-<h2>🤝 Connect with Me</h2>
-
-<p>
+<h2>🤝 Let's Connect!</h2>
+<p align="center">
   <a href="mailto:jkmsoftwaredev@gmail.com">
     <img src="https://img.shields.io/badge/Email-jkmsoftwaredev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -73,11 +82,13 @@ I am a versatile Full Stack Developer skilled in building scalable, user-centric
 
 ---
 
-<h2>✨ Quote</h2>
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<h2>✨ Fun Fact</h2>
+<p align="center">
+When I’m not coding, you can catch me exploring VR games, dissecting the latest tech trends, or dreaming up my next big project. 
+</p>
 
 ---
 
 <p align="center">
-  <b>Feel free to fork, star ⭐, or reach out to collaborate on any of my projects!</b>
+  <b>⭐ If you’ve made it this far, why not star a project or reach out? Let’s create something amazing together! 🚀</b>
 </p>
