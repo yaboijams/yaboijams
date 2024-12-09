@@ -5,11 +5,16 @@
 - <b>R/Rstudio</b>
   - [Coordinate System Organization for Biomechanical Analysis](https://github.com/yaboijams/Coordinate-System-Organization-for-Biomechanical-Analysis/blob/main/README.md)
   - [Measuring Species Variation with Principal Component Analysis](https://github.com/yaboijams/Measuring-Variation-with-Principal-Component-Analysis)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C#</b>
   - [Zombie Slayer Video Game](https://github.com/yaboijams/Zombie-Slayer-Unity-Project)
 
 - <b>Python</b>
   - [Using Deep Learning Techniques to Create a Chatbot in Python](https://github.com/yaboijams/Chat-Bot)
+ 
+- <b>Full Stack Projects</b>
+    -[Simpson Limited - Collectors Firearms](https://simpsonltd.web.app/)
+    -[The Interview](https://theinterview.info/)
+    -[Game of Life](https://gameoflife-eosin.vercel.app/)
 
 <h2> 🤳 Connect with me:</h2>
 
