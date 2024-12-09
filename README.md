@@ -15,6 +15,9 @@
     - [Simpson Limited - Collectors Firearms](https://simpsonltd.web.app/)
     - [The Interview](https://theinterview.info/)
     - [Game of Life](https://gameoflife-eosin.vercel.app/)
+ 
+- <b>Mobile Apps</b>
+  - [Simpson Limited Inventory Scanner](https://github.com/yaboijams/SimpsonLtdInvScanner/)
 
 <h2> 🤳 Connect with me:</h2>
 
