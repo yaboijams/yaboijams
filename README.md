@@ -12,9 +12,9 @@
   - [Using Deep Learning Techniques to Create a Chatbot in Python](https://github.com/yaboijams/Chat-Bot)
  
 - <b>Full Stack Projects</b>
-    -[Simpson Limited - Collectors Firearms](https://simpsonltd.web.app/)
-    -[The Interview](https://theinterview.info/)
-    -[Game of Life](https://gameoflife-eosin.vercel.app/)
+    - [Simpson Limited - Collectors Firearms](https://simpsonltd.web.app/)
+    - [The Interview](https://theinterview.info/)
+    - [Game of Life](https://gameoflife-eosin.vercel.app/)
 
 <h2> 🤳 Connect with me:</h2>
 
