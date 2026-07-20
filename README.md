@@ -1,108 +1,67 @@
-<h1 align="center">✨ Hi, I'm Jamari Mitchell! ✨</h1>
-<p align="center"><b>Full Stack Developer | Research Wizard | Code Connoisseur</b></p>
+# Jamari Mitchell
+
+**Full-stack engineer · Chicago, IL**
+
+Building high-performance products across web, mobile, and cloud — from enterprise platforms to open-source tooling.
+
+### [→ View my portfolio](https://web-portfolio-37083.web.app)
+
+[Email](mailto:jkmsoftwaredev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jamari-mitchell/) · [npm](https://www.npmjs.com/~yaboijams)
 
 ---
 
-<h2 align="center">🎨 About Me</h2>
-<p align="center">
-I’m not just a Full Stack Developer—I’m a digital alchemist, transforming complex problems into sleek, user-friendly solutions. Whether it's optimizing workflows, crafting scalable applications, or diving into biomechanical research, I thrive at the intersection of innovation and functionality. 
-</p>
-<p align="center">
-<strong>When I’m not coding, you can find me exploring new tech trends, tinkering with game development, or chasing the next big idea!</strong>
-</p>
+## About
+
+Full-stack Software Engineer & DevOps specialist with 4+ years delivering AI-powered web and mobile products on React / React Native, Node.js, and Python. Focused on scalable systems, clean architecture, and Infrastructure as Code.
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-</p>
+## Experience
+
+**Software Engineer, Contractor** — John Deere (via Bartech Staffing) · *June 2025 – Present*  
+Enterprise features end-to-end (React/TypeScript, Node.js, Go), OAuth 2.0 / Okta, Vitest, Docker/Kubernetes on AWS EKS, and GitHub Actions CI/CD.
+
+**Software Engineer — Full Stack & DevOps** — Simpson Limited · *July 2023 – March 2026*  
+Sole engineer for digital modernization: React ecommerce on GCP, Firebase inventory, Kotlin Zebra scanner (30k+ items), and automated CI/CD.
+
+**Research Software Engineer Intern** — Knox College (Gidmark Lab) · *2020 – 2023*  
+R pipelines for biomechanics research; co-authored work in *Integrative Organismal Biology*.
 
 ---
 
-<h2>🚀 Experience</h2>
+## Featured work
 
-### Full Stack Developer | Simpson Limited | July 2023 – Present  
-- 🚀 **Boosted revenue**: Developed a React.js app integrated with Authorize.net, Auth0, and Redis, increasing monthly revenue by 3% and saving $1,200/month.  
-- 📦 **Streamlined workflows**: Migrated inventory databases to Firebase, slashing lookup times by 40%.  
-- 📱 **App Innovator**: Designed a Kotlin-based Android app for inventory management, saving $1,000/device.  
+| | |
+|---|---|
+| **[CodeXpress](https://codeexpress.dev)** | Education platform for coding instruction — React, TypeScript, Vite, Firebase |
+| **[Get It Done](https://getitdone-ad8fc.web.app/)** | Cross-platform productivity app — React Native, Expo, Firebase |
+| **[repo-tracking](https://www.npmjs.com/package/repo-tracking)** | Last-touch / freshness tracking — GitHub Action + npm |
+| **[firebase-multi-env](https://www.npmjs.com/package/firebase-multi-env)** | Hardened single-project Firebase environment isolation |
 
-### Research Software Engineer | Knox College | June 2020 – July 2023  
-- 🔬 **Accelerated research**: Created R scripts for biomechanical data, speeding up lab findings by 28%.  
-- 📊 **Automated analysis**: Streamlined PCA workflows with scree plot generation and variance visualization.  
-- 🧠 **Published results**: Contributed to groundbreaking research featured in a scientific journal.  
-
----
-
-<h2>🎮 Projects</h2>
-
-- **[Game of Life](https://gameoflife-eosin.vercel.app/)**  
-  🧩 Multiplayer board game with real-time state management, neon-themed UI, and Firebase integration.  
-
-- **[The Interview](https://theinterview.info/)**  
-  💼 CRUD application featuring career insights, RESTful APIs, and responsive design using React.js and Firebase.  
-
-- **[Web Portfolio](https://web-portfolio-delta-black.vercel.app/)**  
-  🎨 Responsive showcase of my technical skills and projects, built with Next.js and Tailwind CSS.  
-
-- **[Python Chatbot](https://github.com/yaboijams/Chat-Bot)**  
-  🤖 AI chatbot with 85% accuracy, powered by LSTM neural networks and NLTK.  
-
-- **[Phobia 3D](https://github.com/yaboijams)**  
-  🎥 Immersive horror game exploring fears, developed in Unity with performance-optimized C++.  
+More on the [portfolio](https://web-portfolio-37083.web.app/projects) and [packages](https://web-portfolio-37083.web.app/packages) pages.
 
 ---
 
-<h2>📚 Education</h2>
+## Skills
 
-- **Bachelor of Science in Computer Science & Biology**  
-  Knox College, 2023  
+**Languages** — JavaScript, TypeScript, C#, Python, SQL, Kotlin, Go  
 
----
+**Frameworks** — React, React Native, Angular, .NET MVC, Node.js  
 
-<h2>🤝 Let's Connect!</h2>
-<p align="center">
-  <a href="mailto:jkmsoftwaredev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jkmsoftwaredev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/yaboijams">
-    <img src="https://img.shields.io/badge/GitHub-yaboijams-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/jamari-mitchell-5217bb23a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jamari%20Mitchell-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+**Tools** — Docker, Kubernetes, GitHub Actions, Terraform, CloudFormation  
+
+**Platforms** — AWS, GCP, Firebase, Expo  
+
+**Databases** — MongoDB, Firestore, Redis  
 
 ---
 
-<h2>✨ Fun Fact</h2>
-<p align="center">
-When I’m not coding, you can catch me exploring VR games, dissecting the latest tech trends, or dreaming up my next big project. 
-</p>
+## Education
+
+**B.S. Computer Science & Biology** — Knox College, 2023 (3.6 GPA)
 
 ---
 
 <p align="center">
-  <b>⭐ If you’ve made it this far, why not star a project or reach out? Let’s create something amazing together! 🚀</b>
+  <a href="https://web-portfolio-37083.web.app"><strong>web-portfolio-37083.web.app</strong></a>
 </p>
